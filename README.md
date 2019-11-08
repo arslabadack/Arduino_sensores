@@ -6,7 +6,17 @@ Abaixo se encontra o modelo do sensor e algumas características
 
 ### Sensor de Intensidade de Luz
 
+**Retorno:** Intensidade de Luz
+
 ![](img/temt6000.jpg)
+
+#### Ligação no Arduino
+
+| **Pino** | **Porta** |
+| :------- | :-------- |
+| V        | A0        |
+| G        | A1        |
+| S        | A2        |
 
 |Especificação|**Max**| **Miliampère (mA)  **|
 |-------------|-------|----------------------|
