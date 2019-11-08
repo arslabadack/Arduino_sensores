@@ -20,7 +20,7 @@ Abaixo se encontra o modelo do sensor e algumas características
 
 #### Informações úteis
 
-|Especificação|**Max**| **Miliampère (mA)  **|
+|Especificação|**Max**| **Miliampère (mA)**|
 |-------------|-------|----------------------|
 |Collector dark current |50 nA|0,00005 mA|
 |Collector Light Current|16 μA|0,016 mA|
