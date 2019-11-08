@@ -18,6 +18,8 @@ Abaixo se encontra o modelo do sensor e algumas características
 | G        | A1        |
 | S        | A2        |
 
+#### Informações úteis
+
 |Especificação|**Max**| **Miliampère (mA)  **|
 |-------------|-------|----------------------|
 |Collector dark current |50 nA|0,00005 mA|
